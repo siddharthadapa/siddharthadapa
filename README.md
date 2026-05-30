@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there, I'm a Full Stack Java Developer! 👋<br><br>I am a fresh graduate (2025 batch) looking for a Software Developer role. I build complete web applications using **Spring Boot** for the backend and **React** for the frontend. Right now, I am deeply focused on mastering Microservices, Spring AI, and advanced JavaScript to build modern, intelligent applications.<br><br>---<br><br>🛠️ My Skills:<br><br>Backend & Core Java:<br>Java Fundamentals: OOPs Concepts, Multithreading, Exception Handling, Java Collections Framework.<br>Frameworks & Architecture: Spring Boot, Spring Boot Annotations, Microservices, RESTful APIs, Spring AI.<br>Database & Operations: MySQL, PostgreSQL, CRUD Operations.<br><br>Frontend & React:<br>Core Web UI: JavaScript (ES6+), HTML5, CSS3, Bootstrap.<br>React Ecosystem: React Components, Hooks, Component Rendering, Redux (State Management).<br><br>Developer Tools:<br>Git, GitHub, VS Code, Eclipse, IntelliJ IDEA, Postman, Swagger.<br><br>---<br><br>🚀 Projects:<br><br>AI Chatbot Website (Active Project):<br>An intelligent, real-time chat website powered by Artificial Intelligence.<br>Backend: Built using a Microservices architecture with Spring Boot and Spring AI to seamlessly integrate AI models.<br>Frontend: A responsive, real-time chat interface built with React and JavaScript.<br><br>Smart-Mart (E-Commerce Website):<br>A complete online shopping store where users can browse products and place orders.<br>Backend: Used Spring Boot to handle data and build the APIs.<br>Frontend: Built a clean, user-friendly interface using React, CSS, and Bootstrap.<br><br>---<br><br>👀 About Me:<br><br>🔭 Current Focus: Developing my AI Chatbot using Spring AI and diving deeper into Microservices.<br>🌱 Currently Learning: Mastering Advanced JavaScript concepts and Microservice communication patterns.<br>🤝 Open to: Collaborating on Java, Spring Boot, Microservices, or React projects.<br>💬 Ask me about: Java OOPs, building REST APIs, React components, or integrating AI with Spring.<br>⚡ Fun fact: When I'm not debugging or writing APIs, I enjoy spending time playing with my cat!<br><br>---<br><br>📈 Connect with Me:<br><br>LinkedIn: [Adapa Phani Venkata Siddhardha](https://www.linkedin.com/in/adapa-phani-venkata-siddhardha)<br>Email: siddharthadapa86@gmail.com<br><br>---
 
-<!--
-**siddharthadapa/siddharthadapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddharth_adapa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adapa-phani-venkata-siddhardha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthadapa86@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=siddharthadapa&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=siddharthadapa&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=siddharthadapa&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=siddharthadapa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
